@@ -1,1 +1,1 @@
-# Bharat-Intern
+Machine Learning mini projects
